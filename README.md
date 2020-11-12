@@ -17,6 +17,6 @@
 </p>
 
 <p align="center">
-    O curso online ministrado por [Origamid](https://www.origamid.com).
+    O curso online ministrado por <a href="https://www.origamid.com">Origamid</a>
 </p>
 
