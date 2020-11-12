@@ -6,13 +6,13 @@
     Curso WordPress como CMS - ORIGAMID (Estudo)
 </h2>
  
- <p align="center">
+ <p>
     No curso de WordPress Como CMS, você aprende do zero como pegar qualquer site em HTML e torná-lo totalmente gerenciável com
     a plataforma do WordPress. Este é o próximo nível para você que já consegue criar sites em HTML/CSS mas ainda não tem
     experiência com uma linguagem de programação.
 </p>
 
-<p align="center">
+<p>
     Utilizamos um website em HTML puro e transformamos ele em um Tema para WordPress em PHP. Utilizamos o plugin [Advanced Custom Field](https://www.advancedcustomfields.com/) para criar campos personalizados, onde o usuário final terá toda a liberdade de trocar qualquer informação do site sem a necessidade de um Desenvolvedor WEB.
 </p>
 
